@@ -1,0 +1,24 @@
+.nav{
+    background-color: orange;
+}
+body{
+    background-color: lightblue;
+    
+}
+.container{
+    margin-top: 100px;
+    padding: 100px;
+    background-color: pink;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.container1{
+    margin: 100px;
+    border: orange 2px;
+}
+.container2{
+    margin: 100px;
+    border: orange 2px;
+}
